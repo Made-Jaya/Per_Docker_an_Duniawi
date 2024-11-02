@@ -37,7 +37,7 @@ proxies:
   ws-opts:
   	path: "/trojan"
 	headers:
-        Host: id4.antonbrc.com
+        	Host: id4.antonbrc.com
 - name: None_None_vmess_02
   type: vmess
   server: 104.26.0.56
